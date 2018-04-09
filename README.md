@@ -21,4 +21,4 @@ The file includes a working example of how to
 
 
 Read more here:
-http://www.soliantconsulting.com/blog/2015/12/language-localization-filemaker-solutions
+https://www.soliantconsulting.com/blog/language-localization-filemaker
